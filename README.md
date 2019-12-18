@@ -1,0 +1,2 @@
+# Trendline
+attempts about AI
